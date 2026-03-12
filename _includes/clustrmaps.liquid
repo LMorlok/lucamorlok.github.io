@@ -1,5 +1,11 @@
 {% if site.visitor_globe.enabled %}
-  <div class="visitor-globe-widget">
-    <script type="text/javascript" id="mmvst_globe" src="{{ site.visitor_globe.script_src }}"></script>
-  </div>
+  <a href="https://mapmyvisitors.com/" title="Visitor Map" style="display:inline-block;vertical-align:middle;margin-right:6px;">
+    <iframe
+      src="{{ '/assets/html/visitor-globe.html' | relative_url }}"
+      style="width:40px;height:40px;border:none;overflow:hidden;background:transparent;"
+      scrolling="no"
+      frameborder="0"
+      allowtransparency="true"
+    ></iframe>
+  </a>
 {% endif %}
