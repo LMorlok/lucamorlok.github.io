@@ -39,18 +39,25 @@ ninja.data = [{
           window.open("mailto:%6C%75%63%61.%6D%6F%72%6C%6F%6B@%69%63%6C%6F%75%64.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/luca-morlok-104281288", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-ellis_profile',
+        title: 'Ellis_profile',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://institute-tue.ellis.eu/en/people/lmorlok", "_blank");
+        },
+      },{
+        id: 'social-mpi_profile',
+        title: 'Mpi_profile',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://is.mpg.de/~lmorlok", "_blank");
         },
       },{
       id: 'light-theme',
