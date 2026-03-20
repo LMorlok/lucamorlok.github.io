@@ -52,6 +52,7 @@ search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
+cv_pdf: 20251113_LucaMorlok_CV.pdf
 
 # Dimensions
 max_width: 930px
