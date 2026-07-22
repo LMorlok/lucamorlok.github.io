@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm a PhD student at [ELLIS Institute Tübingen](https://tue.ellis.eu) and the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://is.mpg.de/en), where I am advised by [Rediet Abebe](https://www.redietabebe.com/). 
+Hi, I'm a PhD student at [ELLIS Institute Tübingen](https://tue.ellis.eu) and the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://is.mpg.de/en), where I am advised by [Rediet Abebe](https://institute-tue.ellis.eu/en/people/35f5adb1-9666-42a2-8781-4c16a8de0b50). 
 
 My research focuses on AI alignment, continous learning and  distillation. More specifically, I'm asking how continous knowledge & value transfer (AI-AI, Human-AI) works and can be improved.
 
